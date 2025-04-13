@@ -2,7 +2,7 @@
 
 Pytorch Implementation for the paper: Think and then Explore: Bridging Knowledge Graph Structural Modality with LLMs via RL-Augmented Reasoning.
 
-We're currently restructuring our codebase to improve clarity and reproducibility. The experimental versions contain redundant code segments that may hinder readers' ability to replicate our work. In this initial release, we're making the Path Exploration Module publicly available. The Thinking Module will be released in the near future. We appreciate your patience during this reorganization process.
+We're currently restructuring our codebase to improve clarity and reproducibility. The experimental versions contain redundant code segments that may hinder readers' ability to replicate our work. In this initial release, we're making the original Path Exploration Module publicly available, and we will revised it as soon as possible to make it more clear. The Thinking Module will be released in the near future. We appreciate your patience during this reorganization process.
 
 ## Framework Overview
 <p align="center">
