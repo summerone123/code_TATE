@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```
 
 
-## Training & Testing
+## Training & Testing of the Eploration Module
 The hyperparam configs for each experiments are included in the configs directory. To start a particular experiment, just do
 ```
 sh run.sh configs/${dataset}.sh
